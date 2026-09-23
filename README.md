@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/tanushkat96/tanushkat96/main/326581410505535980.png" width="220" alt="cat coding on laptop" />
+<img src="https://raw.githubusercontent.com/tanushkat96/tanushkat96/main/catty.png" width="220" alt="cat coding on laptop" />
 
 
 # 🐾 Hi, I'm Tanushka Tiwari! 🐱
